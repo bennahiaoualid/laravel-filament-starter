@@ -1,0 +1,12 @@
+{
+    "agents": [
+        "cursor"
+    ],
+    "guidelines": true,
+    "packages": [
+        "filament/filament"
+    ],
+    "skills": [
+        "tailwindcss-development"
+    ]
+}
